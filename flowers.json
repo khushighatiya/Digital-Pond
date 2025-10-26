@@ -1,0 +1,7 @@
+[
+  { "id": "rose", "name": "Rose", "thumb": "/flowers/rose.svg", "description": "A lovely red rose." },
+  { "id": "tulip", "name": "Tulip", "thumb": "/flowers/tulip.svg", "description": "A bright spring tulip." },
+  { "id": "daisy", "name": "Daisy", "thumb": "/flowers/daisy.svg", "description": "A classic white daisy." },
+  { "id": "bluebell", "name": "Bluebell", "thumb": "/flowers/bluebell.svg", "description": "A delicate bluebell." },
+  { "id": "aster", "name": "Aster", "thumb": "/flowers/aster.svg", "description": "A cheerful aster." }
+]
